@@ -37,7 +37,7 @@ I am a UI/UX Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 
 
-- :mailbox:Reach me here: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/home)
+- :mailbox:Reach me here: [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/home)
 
 
 - ---
